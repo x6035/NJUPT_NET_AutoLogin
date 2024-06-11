@@ -15,11 +15,11 @@
 #### ⅡWIFI名称（wifi_ssid=）
 #### ⅢWIFI密码（wifi_password=）
 
-# 3、关于舒服的全自动登录联网方法
+## 3、关于舒服的全自动登录联网方法
 ## 配置方法：打开windows的任务计划程序，右侧操作里选择导入任务，选择项目里的`校园网检测.xml`。
 
 
-# 4、构建
+## 4、构建
 python3.11.1
 
 pyinstaller --onefile .pyfile
