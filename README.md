@@ -19,7 +19,7 @@
 ## 配置方法：打开windows的任务计划程序，右侧操作里选择导入任务，选择项目里的`校园网检测.xml`。
 
 
-## 构建
+# 4、构建
 python3.11.1
 
 pyinstaller --onefile .pyfile
